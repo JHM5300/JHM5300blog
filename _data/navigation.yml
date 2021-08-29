@@ -2,11 +2,11 @@
 main:
   - title: "블로그 방문하기"
     url: https://jhm5300.github.io/JHM5300blog/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "소개 글"
      url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "프로젝트"
+     url: /project/
+   - title: "다른 글"
+     url: /post/
   # - title: "Sitemap"
   #   url: /sitemap/
