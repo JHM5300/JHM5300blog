@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "crate study post"
 layout: categories
-permalink: /categories/
+permalink: /study/
 author_profile: true
 ---
