@@ -1,20 +1,6 @@
----
-title: "주니어 개발자의 공부 일지"
-layout: categories
-permalink: /study/
-author_profile: true
----
+| title                       | layout     | permalink | author_profile |
+| --------------------------- | ---------- | --------- | -------------- |
+| "주니어 개발자의 공부 일지" | categories | /study/   | true           |
+| "일상"                      | categories | /daily/   | true           |
+| "취미"                      | categories | /hobby/   | true           |
 
----
-title: "일상"
-layout: categories
-permalink: /daily/
-author_profile: true
----
-
----
-title: "취미"
-layout: categories
-permalink: /hobby/
-author_profile: true
----
