@@ -1,6 +1,6 @@
 ---
-title: "일상이야기"
+title: "취미생활"
 layout: categories
-permalink: /daily/
+permalink: /hobby/
 author_profile: true
 ---
