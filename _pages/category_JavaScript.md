@@ -1,9 +1,9 @@
 ---
 title: "JavaScript"
-permalink: /study/JavaScript/
+permalink: /study/javascript/
 layout: category
 author_profile: true
-taxonomy: JavaScript
+taxonomy: javascript
 ---
 
 JavaScript study
