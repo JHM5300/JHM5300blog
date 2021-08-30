@@ -1,5 +1,5 @@
 ---
-title: "crate study post"
+title: ""
 layout: categories
 permalink: /study/
 author_profile: true
