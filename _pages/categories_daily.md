@@ -1,4 +1,3 @@
-
 ---
 title: "일상이야기"
 layout: categories
