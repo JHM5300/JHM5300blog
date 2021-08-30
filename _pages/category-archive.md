@@ -5,13 +5,14 @@ permalink: /study/
 author_profile: true
 ---
 
+---
 title: "일상"
 layout: categories
 permalink: /daily/
 author_profile: true
 ---
 
-
+---
 title: "취미"
 layout: categories
 permalink: /hobby/
