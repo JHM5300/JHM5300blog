@@ -1,4 +1,6 @@
 ---
+layout: single
+permalink: /study/
 title: "[React] 리액트 첫 글"
 excerpt: "리액트 스터디 카테고리"
 categories:

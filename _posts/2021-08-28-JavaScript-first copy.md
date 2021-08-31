@@ -1,4 +1,6 @@
 ---
+layout: single
+permalink: /study/
 title: "[JavaScript] 자바스크립트 첫 글"
 excerpt: "자바스크립트 공부"
 categories:
