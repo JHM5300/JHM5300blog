@@ -9,6 +9,6 @@ tags:
   - react
 ---
 
-# javascript first post
+# React first post
 
 앞으로 열심히 해보겠습니다.
