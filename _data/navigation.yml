@@ -1,12 +1,8 @@
 # main links
 main:
-   - title: "소개글 (준비중)"
-     url: https://jhm5300.github.io/JHM5300blog/ 
-   - title: "공부"
-     url: /study/
-   - title: "일상"
-     url: /daily/
-   - title: "취미"
-     url: /hobby/
+  - title: "소개글 (준비중)"
+    url: https://jhm5300.github.io/JHM5300blog/
+  - title: "공부"
+    url: /study/
   # - title: "Sitemap"
   #   url: /sitemap/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
