@@ -8,6 +8,6 @@ tags:
   - html
 ---
 
-# javascript first post
+# 자바스크립트 첫 글 짜잔
 
 앞으로 열심히 해보겠습니다.
