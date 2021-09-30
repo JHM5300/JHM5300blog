@@ -1,5 +1,5 @@
 ---
-title: "[javascript] 리액트 첫 글"
+title: "[javascript] 자바스크립트의 최신 문법"
 excerpt: "자바스크립트의 최신 문법"
 categories:
   - javascript
