@@ -11,15 +11,15 @@ tags:
 
 # 자바스크립트 문법 공부
 
-### shorthand property names
+### Shorthand property names
 
 > key와 value가 동일한 경우에는 하나로만 생략이 가능하다.
 
-```
+```javascript
 const obj = {
-    name : name,
-    age:age,
-}
+  name: name,
+  age: age,
+};
 ```
 
 ```
@@ -46,7 +46,7 @@ console.log(name); // kim
 console.log(age); // 20
 ```
 
-###Spread syntax
+### Spread syntax
 
 > 복사할때 많이 사용, `...` 을 이용해 배열이나 객체에 들어 있는 하나하나 씩을 낱개로 가져와서 복사한다.
 
