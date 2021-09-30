@@ -123,6 +123,6 @@ false : false, '' , 0, null, undefined
 ```
 
 출처)
-<https://velog.io/@devky/TIL-Javascript-%EC%B5%9C%EC%8B%A0-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC>
-<https://developer.mozilla.org/ko/>
+<https://velog.io/@devky/TIL-Javascript-%EC%B5%9C%EC%8B%A0-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC><br/>
+<https://developer.mozilla.org/ko/><br/>
 <https://github.com/dream-ellie/learn-javascript/tree/master/notes/es6-11>
