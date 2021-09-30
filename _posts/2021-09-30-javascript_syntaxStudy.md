@@ -22,11 +22,11 @@ const obj = {
 };
 ```
 
-```
+```javascript
 const obj = {
-    name,
-    age,
-}
+  name,
+  age,
+};
 ```
 
 ### Destructuring assignment
